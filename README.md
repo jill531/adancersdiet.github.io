@@ -29,8 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/parablurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parablurr" height="30" width="40" /></a>
-<a href="/https://www.tumblr.com/blog/adancersdiet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.tumblr.com/blog/adancersdiet" height="30" width="40" /></a>
+<a href="https://instagram.com/parablurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parablurr" height="30" width="40"
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jill531&show_icons=true&locale=en&layout=compact" alt="jill531" /></p>
