@@ -2,6 +2,7 @@
 <h3 align="center">A dancer with a secret diet, concerned about health besides veterinary stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jill531&label=Profile%20views&color=0e75b6&style=flat" alt="jill531" /> </p>
+this is my.. tumblr account.. https://www.tumblr.com/adancersdiet
 
 - 🔭 I’m currently working on **snapmon**
 
