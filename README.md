@@ -12,9 +12,9 @@ this is my.. tumblr account.. https://www.tumblr.com/adancersdiet
 
 - 🤝 I’m looking for help with **building my dreams.**
 
-- 👨‍💻 All of my projects are available at [a platform that I use.](a platform that I use.)
+- 👨‍💻 All of my projects are available at [a platform that I use.]
 
-- 📝 I regularly write articles on [tumblr stuff.](tumblr stuff.)
+- 📝 I regularly write articles on [tumblr stuff.]
 
 - 💬 Ask me about **veterinary stuff.**
 
